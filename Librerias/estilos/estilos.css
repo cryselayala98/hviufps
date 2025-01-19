@@ -1,0 +1,85 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("../images/fondoForm.jpg");
+    min-width: 100%;
+    align-items: center;
+}
+#letra{
+color:white;
+}
+#letra2{
+color:white;
+}
+nav.navbar{
+    background-color: #CB0101;
+    font-family: 'Abril Fatface', cursive;
+}
+.titulo{
+ padding-left: 15px;
+    color: #fff;    
+
+}
+.dropdown-menu li a{
+    color: black; 
+}
+#lista a{
+    color: #fff;
+}
+#list{
+    color: #fff;
+}
+.btn{
+    border: none;
+    color: white;
+    padding: 10px;
+    margin-left: 150px;
+    margin-top: 20px;
+    font-size: 18px;
+
+}
+.btn:hover{
+    background-color: #CB0101;
+}
+
+
+
+.glyphicon { margin-right:10px; }
+.panel-body { padding:0px; }
+.panel-body table tr td { padding-left: 15px }
+.panel-body .table {margin-bottom: 0px; }
+
+.panel-group .panel+.panel{
+    margin-top: 0px;
+}
+
+.glyphicon glyphicon-chevron-down{
+    padding-left: 70px;
+}
+
+.container-fluid{
+    padding-top: 0px;
+    margin-top: 0px;
+   ;
+}
+.navbar-static-top {
+    padding-bottom: 0px;
+    margin-bottom: 0px; 
+}
+
+.navbar-right{
+    margin-right:0;
+}
+
+.barra{
+  padding-left: 0;
+}
+
+hr{
+    
+    color:blue;
+    font-size: 10px;
+}

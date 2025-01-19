@@ -1,0 +1,11 @@
+{
+  "name": "hviufps",
+  "version": "1.0.0",
+  "description": "aplicacion para gestionar las hojas de vidas de los investigadores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
